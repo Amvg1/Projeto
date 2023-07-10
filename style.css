@@ -38,6 +38,7 @@ body * {
   color: var(--text-color);
 }
 #container {
+  /*ajuste da largura do container: largura 100% e máxima largura 588px;*/
   width: 100%;
   max-width: 588px;
   /*border: 1px solid red;
